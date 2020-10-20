@@ -1,0 +1,27 @@
+.counter-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-inc{
+    padding: 10px 20px;
+    background-color: seagreen;
+    margin-right: 5px;
+    color: white;
+    font-size: 16px;
+}
+
+.btn-dec{
+    padding: 10px 20px;
+    background-color: red;
+    margin-right: 5px;
+    color: white;
+    font-size: 16px;
+}
+
+.btn-reset{
+    padding:10px 20px;
+    background-color: gray;
+    color: white;
+    font-size: 16px;
+}
